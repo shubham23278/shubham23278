@@ -6,6 +6,8 @@
 
 - 🌱 Currently learning **Data Structures and Algorithms.**
 
+- 📫 How to reach me **Stongaria45@gmail.com**
+
 
 <p align="center">
 <a href="https://github.com/shubham23278/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=shubham23278&show_icons=true&theme=radical&hide_border=true&bg_color=000" alt="Shubham's Stats"/></a>
