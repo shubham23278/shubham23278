@@ -25,4 +25,6 @@
 </p>
 
  <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  <p align="center">
 <a href = 'https://www.linkedin.com/in/shubham-tongaria-030b461a7/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+  </p>
