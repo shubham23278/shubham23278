@@ -2,9 +2,9 @@
 <div align="center">
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m currently doing  **B.Tech Cse (3rd)** from Sharda University
+👨‍🎓 I’m currently doing  **B.Tech Cse (3rd)** from Sharda University
 
-- 🌱 Currently learning **Data Structures and Algorithms.**
+🌱 Currently learning **Data Structures and Algorithms.**
 
 </div>
 
