@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Shubham 👋</h1>
-<h2 align="center">🙋‍♂️ About Me</h2>
+
+##🙋‍♂️ About Me
 
 - 👨‍🎓 I’m currently doing  **B.Tech Cse (3rd)** from Sharda University
 
