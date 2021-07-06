@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham 👋
+<h1 align="center">Hi there, I'm Shubham 👋</h1>
 
 
 <a href="https://github.com/shubham23278/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=shubham23278&show_icons=true&theme=radical&hide_border=true&bg_color=000" alt="Shubham's Stats"/></a>
