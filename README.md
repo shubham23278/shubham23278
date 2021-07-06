@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shubham 👋</h1>
 <div align="center">
-## 🙋‍♂️ About Me
-
+🙋‍♂️ About Me
+<br />
 👨‍🎓 I’m currently doing  **B.Tech Cse (3rd)** from Sharda University
 
 🌱 Currently learning **Data Structures and Algorithms.**
