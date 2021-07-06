@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shubham 👋</h1>
+<h1 align="center">Hi there, I'm Shubham <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 ## 🙋‍♂️ About Me <img src = "https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76114379e7556c3dc1f0f96496e638db6cd0c622f227&rid=giphy.gif&ct=g" width = 100px></h2>
 
