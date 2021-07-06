@@ -3,8 +3,8 @@
 <p align="center">
 <a href="https://github.com/shubham23278/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=shubham23278&show_icons=true&theme=radical&hide_border=true&bg_color=000" alt="Shubham's Stats"/></a>
 <a href="https://github.com/shubham23278/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalconHex&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=000" alt="Shubham's Stats"/></a>
+  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br />
   </p>
    
 <h2 align="center">Languages and Tools:</h2>
