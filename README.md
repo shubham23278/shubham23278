@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shubham 👋</h1>
 
-## 🙋‍♂️ About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+## 🙋‍♂️ About Me <img src = "https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76114379e7556c3dc1f0f96496e638db6cd0c622f227&rid=giphy.gif&ct=g" width = 100px></h2>
 
 - 👨‍🎓 I’m currently doing  **B.Tech Cse (3rd)** from Sharda University
 
