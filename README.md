@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Shubham <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
+<img src="https://cutewallpaper.org/21/matrix-gif-background/Code-Matrix-Sticker-by-Chris-Cubellis-for-iOS-and-Android-GIPHY.gif">
+
 ## 🙋‍♂️ About Me <img src = "https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76114379e7556c3dc1f0f96496e638db6cd0c622f227&rid=giphy.gif&ct=g" width = 100px></h2>
 
 - 👨‍🎓 I’m currently doing  **B.Tech Cse (3rd)** from Sharda University
