@@ -33,5 +33,5 @@
   </p>
 <h2 align="center"> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height = 32px width = '32px'></h2>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" width = 300px height = 600px/>
   </p>
