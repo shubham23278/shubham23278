@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shubham <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height=50px width = 50px> </h1>
-<p align="center"><img src = "https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76114379e7556c3dc1f0f96496e638db6cd0c622f227&rid=giphy.gif&ct=g" width = 300px></p>
+<p align="center"><img src = "https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76114379e7556c3dc1f0f96496e638db6cd0c622f227&rid=giphy.gif&ct=g" height = 300px width = 300px></p>
 
 ## 🙋‍♂️ About Me     
 <img align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" height=190px>
